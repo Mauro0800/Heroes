@@ -1,5 +1,8 @@
 # Heroes
 
-### Integrantes: Amado Mauricio, Giuliana Gutierrez, Keila Dipardo, Nazarena Camarota
-### Edades: 23,
-### Ciudad: Lanus,
+### Integrantes
+### Amado Mauricio, 18, Lanus
+### Giuliana Gutierrez, 19, Villa la Angostura
+### Keila Dipardo, 23, Lanus
+### Nazarena Camarota
+
